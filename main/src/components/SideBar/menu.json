@@ -1,0 +1,26 @@
+[
+  {
+    "key": "Index",
+    "path": "/index",
+    "meta": {
+      "title": "主页",
+      "icon": "icon-home"
+    }
+  },
+  {
+    "key": "VueMicroApp",
+    "path": "/vue",
+    "meta": {
+      "title": "vue页面",
+      "icon": "icon-vue"
+    }
+  },
+  {
+    "key": "ReactMicroApp",
+    "path": "/react",
+    "meta": {
+      "title": "react页面",
+      "icon": "icon-react"
+    }
+  }
+]
