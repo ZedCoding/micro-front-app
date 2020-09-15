@@ -10,7 +10,6 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "element-ui": "^2.13.2",
-    "import-html-entry": "^1.9.1",
     "nprogress": "^0.2.0",
     "qiankun": "^2.0.24",
     "reset-css": "^5.0.1",

@@ -4664,7 +4664,7 @@ import-from@^2.1.0:
   dependencies:
     resolve-from "^3.0.0"
 
-import-html-entry@^1.9.0, import-html-entry@^1.9.1:
+import-html-entry@^1.9.0:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/import-html-entry/-/import-html-entry-1.9.1.tgz#91a846ab3ddad1f9a4b876a595d1e8b28bef7609"
   integrity sha512-tWxzA981ZulXzO/5j6BFGiFaaT7ufaLkeWRMQT7oD1IWF/TG2UFzaibK5/8fo8DcmcOo/vOzA4dUoyNnPb9YNg==

@@ -11,7 +11,10 @@
     "install:vue": "cd vue && yarn",
     "start:vue": "cd vue && yarn serve",
     "install:react": "cd react && yarn",
-    "start:react": "cd react && yarn start"
+    "start:react": "cd react && yarn start",
+    "build:main": "cd main && yarn build",
+    "build:vue": "cd vue && yarn build",
+    "build:react": "cd react && yarn build"
   },
   "keywords": [
     "qiankun",
